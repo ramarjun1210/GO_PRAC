@@ -12,6 +12,10 @@ func main () {
   var j float64
   var s string 
   
+  k := 10
+  l := 111.34
+  name := "Sandeep"
+  
   j = 3.17
   s = "Go Langauge"
 }
