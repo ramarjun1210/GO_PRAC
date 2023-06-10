@@ -15,7 +15,11 @@ func main () {
   k := 10
   l := 111.34
   name := "Sandeep"
-  
+  num := 0
   j = 3.17
   s = "Go Langauge"
+  
+  fmt.Println("Enter The Number : ")
+  fmt.Scanln(&num)
+  fmt.Printf("Number = %d\n",num)
 }
